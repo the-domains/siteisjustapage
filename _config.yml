@@ -1,8 +1,7 @@
 name: siteisjustapage
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.98532
-title: 'hmm not sure, posts are broken....'
+layout_spectrum: 0.7764455194119364
+typography_spectrum: 0.2128397524356842
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.25158702046610415
+  lightness: 0.3070246947463602
+  saturation: 0.2848866714630276
+  rhythmicContrast: 0.7269304385408759
 purpose: []
